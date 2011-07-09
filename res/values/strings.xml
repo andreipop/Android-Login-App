@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Login form</string>
+    <string name="registration">Registration form</string>
+    <string name="app_name">Login App</string>
+    <string name="Exit">Exit</string>
+    <string name="Clear">Clear</string>
+    <string name="Register">Register</string>
+    <string name="Login">Login</string>
+    <string name="Back">Back</string>
+</resources>
